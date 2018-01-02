@@ -1,0 +1,49 @@
+.mik-background-0 {
+    background-color: #ffffff !important;
+}
+
+.mik-background-1 {
+    background-color: #f5f6ff !important;
+}
+.mik-background-2 {
+    background-color: #e9eaf7 !important;
+}
+.mik-background-3 {
+    background-color: #dcdef1 !important;
+}
+
+.mik-color-0 {
+    color: black !important;
+}
+.mik-color-2 {
+    color: #838383 !important;
+}
+.mik-color-3 {
+    color: #db2828 !important;
+}
+
+a.ui.label {
+    background:white !important;
+    color:#838383 !important;
+}
+* {
+    border-radius:0px !important;
+}
+a {
+    /* color: blue; */
+}
+
+.tag-style {
+    font-weight:900 !important;
+    padding:2px     !important;
+    background:#f5f6ff !important;
+}
+.tag-enabled {
+    color:black !important;
+}
+.tag-disabled{
+    color:#838383 !important;
+}
+.tag-selected {
+    color:#db2828 !important;
+}
